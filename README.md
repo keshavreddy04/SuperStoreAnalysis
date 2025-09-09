@@ -10,7 +10,7 @@ superstore-analysis/
 │   └── superstore_large.csv
 ├── sql/
 │   ├── SuperstoreQueries.sql
-│   └── Superstore Queries.md
+│   └── Superstore Queries
 ├── excel/
 │   └── superstore_large Analyst.xlsx
 └── README.md
@@ -22,7 +22,7 @@ superstore-analysis/
 - ```SuperstoreQueries.sql```
  → SQL scripts for data processing and analysis.
 
-- ```Superstore Queries.md```
+- ```Superstore Queries```
  → Human-readable summary of each query and insights.
 
 Key SQL tasks:
