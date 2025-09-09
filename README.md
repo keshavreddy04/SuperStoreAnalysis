@@ -75,6 +75,11 @@ Key SQL tasks:
 - Import ```superstore_large.csv``` into your SQL database.
 
 - Run queries from ```Superstore Queries```.sql
+
+## 👨‍💻 Author
+- V Om Keshava Reddy
+- 📌 B.Tech CSE (AI & ML), SRM University
+- 🔗 LinkedIn| GitHub| LeetCode
 .
 
 - Open ```superstore_large Analyst.xlsx```
