@@ -76,7 +76,7 @@ Key SQL tasks:
 
 - Run queries from ```Superstore Queries```.sql
 
-- - Open ```superstore_large Analyst.xlsx```
+- Open ```superstore_large Analyst.xlsx```
  to explore the interactive dashboard.
 
 
