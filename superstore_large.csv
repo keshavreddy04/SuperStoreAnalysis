@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Region,Customer_Name,Product_Name,Category,Sales,Profit
+1001,2023-05-11,East,Alice,Binder,Technology,958.08,12.97
+1002,2023-11-11,East,Grace,Monitor,Technology,1558.09,-102.53
+1003,2021-05-02,East,Helen,Table,Furniture,1834.18,228.41
+1004,2022-04-12,West,Frank,Laptop,Technology,418.82,14.41
+1005,2021-11-27,West,Eva,Binder,Office Supplies,1848.62,28.28
+1006,2021-03-29,South,Frank,Printer,Technology,1406.47,-150.36
+1007,2023-05-22,Central,Bob,Bookcase,Office Supplies,1241.0,44.86
+1008,2021-05-11,East,Alice,Printer,Technology,439.69,403.75
+1009,2023-02-09,West,Grace,Binder,Furniture,158.27,-36.85
+1010,2021-12-10,West,Grace,Laptop,Technology,1158.51,286.63
+1011,2023-03-17,East,Jack,Bookcase,Technology,1320.46,240.74
+1012,2022-01-21,Central,Jack,Table,Technology,461.02,404.44
+1013,2023-08-14,East,Bob,Chair,Furniture,1135.09,-107.4
+1014,2021-10-04,Central,Bob,Bookcase,Technology,1720.16,484.31
+1015,2022-04-05,West,Alice,Bookcase,Furniture,1678.38,207.84
+1016,2021-01-22,Central,Jack,Laptop,Office Supplies,1858.34,496.83
+1017,2021-09-10,South,Helen,Laptop,Technology,763.48,438.06
+1018,2023-01-18,West,Helen,Binder,Furniture,670.2,-44.94
+1019,2023-05-07,South,Alice,Desk,Furniture,1511.38,-160.69
+1020,2022-04-20,East,Helen,Bookcase,Technology,890.67,-21.05
+1021,2023-12-19,East,Ian,Monitor,Office Supplies,220.72,169.29
+1022,2022-05-26,East,David,Bookcase,Furniture,601.46,-79.88
+1023,2022-12-01,Central,Alice,Binder,Technology,866.24,-82.78
+1024,2023-09-03,West,Alice,Phone,Office Supplies,620.41,123.82
+1025,2021-07-09,East,Charlie,Printer,Furniture,697.8,-176.71
+1026,2023-08-16,East,Eva,Chair,Furniture,622.86,-114.68
+1027,2022-11-18,West,Eva,Desk,Office Supplies,130.92,91.1
+1028,2023-08-16,East,Ian,Table,Office Supplies,1292.33,-155.81
+1029,2022-07-17,South,Jack,Table,Technology,1214.72,77.73
+1030,2023-04-12,West,Bob,Table,Technology,1324.1,131.8
+1031,2022-10-09,West,Bob,Laptop,Furniture,425.0,115.89
+1032,2021-01-21,West,Frank,Table,Office Supplies,626.53,408.42
+1033,2023-04-21,South,Ian,Chair,Office Supplies,1258.25,171.04
+1034,2021-06-16,West,Alice,Printer,Office Supplies,1219.27,127.59
+1035,2022-01-23,South,Ian,Table,Furniture,1037.34,87.5
+1036,2022-08-24,West,Ian,Bookcase,Office Supplies,733.31,372.34
+1037,2021-11-12,Central,Ian,Bookcase,Office Supplies,1830.22,426.54
+1038,2021-01-14,East,Eva,Laptop,Furniture,712.55,397.27
+1039,2021-08-30,Central,Ian,Chair,Technology,938.46,271.48
+1040,2023-02-16,East,David,Printer,Technology,1372.32,-103.85
+1041,2022-07-19,South,Bob,Desk,Furniture,1108.89,-6.19
+1042,2023-06-17,Central,Frank,Binder,Office Supplies,726.43,-167.76
+1043,2021-04-02,West,David,Printer,Furniture,899.51,451.58
+1044,2023-08-14,East,Frank,Binder,Technology,1599.24,262.56
+1045,2022-05-24,East,Charlie,Phone,Technology,592.35,322.45
+1046,2023-02-15,Central,Frank,Binder,Furniture,327.4,18.1
+1047,2021-02-04,South,Bob,Monitor,Furniture,660.67,391.96
+1048,2021-07-25,Central,Bob,Bookcase,Technology,1706.59,-18.28
+1049,2023-10-23,South,Ian,Chair,Furniture,223.53,-198.85
+1050,2023-10-19,South,Grace,Headphones,Technology,1983.81,63.49
+1051,2022-07-20,East,Charlie,Laptop,Furniture,1104.96,199.53
+1052,2022-12-04,Central,Alice,Monitor,Furniture,1970.45,135.09
+1053,2022-02-06,Central,Helen,Binder,Furniture,1881.04,403.45
+1054,2022-12-31,South,Frank,Table,Technology,932.99,-126.22
+1055,2021-06-11,Central,Grace,Chair,Furniture,437.06,187.68
+1056,2021-07-21,West,Ian,Monitor,Technology,371.53,159.09
+1057,2023-09-23,West,Eva,Laptop,Technology,517.98,-3.02
+1058,2021-09-27,Central,Alice,Bookcase,Furniture,1434.76,375.56
+1059,2023-03-27,Central,Jack,Chair,Furniture,582.25,326.99
+1060,2022-04-01,South,Grace,Laptop,Technology,715.78,313.0
+1061,2023-10-14,West,Eva,Phone,Technology,925.12,413.33
+1062,2021-10-23,West,Charlie,Phone,Office Supplies,1830.8,305.95
+1063,2022-12-21,East,Ian,Laptop,Technology,419.32,-37.71
+1064,2021-12-04,South,Alice,Monitor,Office Supplies,59.8,293.89
+1065,2023-05-29,East,Alice,Chair,Office Supplies,167.19,15.39
+1066,2023-12-13,West,Alice,Monitor,Office Supplies,1814.29,-30.48
+1067,2023-03-03,South,Charlie,Desk,Furniture,1312.66,-148.9
+1068,2021-08-05,Central,Frank,Binder,Furniture,582.43,320.82
+1069,2023-02-03,South,Jack,Desk,Technology,395.53,297.7
+1070,2021-07-07,Central,Charlie,Phone,Office Supplies,623.82,-35.85
+1071,2022-01-15,Central,Helen,Bookcase,Furniture,273.85,324.57
+1072,2022-05-08,South,Jack,Printer,Furniture,1885.99,442.49
+1073,2023-12-01,Central,Bob,Binder,Furniture,1579.2,-124.38
+1074,2021-01-15,East,Ian,Phone,Furniture,951.66,-37.15
+1075,2021-03-06,West,Charlie,Monitor,Furniture,1736.68,325.18
+1076,2022-06-05,Central,Eva,Monitor,Office Supplies,536.44,-7.85
+1077,2022-10-10,East,Jack,Monitor,Office Supplies,1448.39,237.26
+1078,2023-12-23,Central,Helen,Bookcase,Office Supplies,1719.46,-143.19
+1079,2022-08-16,West,Bob,Desk,Office Supplies,745.7,116.54
+1080,2022-01-27,East,Frank,Printer,Technology,1527.06,317.36
+1081,2022-02-23,West,Eva,Monitor,Office Supplies,625.39,280.56
+1082,2021-10-16,West,Jack,Headphones,Furniture,632.77,370.55
+1083,2022-01-14,East,Ian,Binder,Office Supplies,258.76,414.22
+1084,2021-08-19,East,Eva,Chair,Technology,908.11,341.23
+1085,2023-10-15,East,Bob,Headphones,Furniture,1472.94,270.11
+1086,2021-02-10,South,Eva,Printer,Office Supplies,1883.43,-177.79
+1087,2023-11-18,East,David,Bookcase,Office Supplies,1227.4,174.48
+1088,2021-05-15,East,Grace,Printer,Office Supplies,1733.11,-173.61
+1089,2021-07-20,East,Frank,Chair,Furniture,1653.86,365.65
+1090,2023-02-19,East,Bob,Binder,Furniture,388.02,24.51
+1091,2023-07-19,Central,Eva,Chair,Technology,997.34,193.7
+1092,2023-11-23,South,Grace,Laptop,Furniture,278.0,-4.39
+1093,2023-12-08,West,Grace,Binder,Furniture,1380.2,347.75
+1094,2022-05-18,East,Eva,Printer,Office Supplies,1902.3,420.55
+1095,2022-02-11,Central,Ian,Monitor,Furniture,317.32,79.05
+1096,2023-03-16,Central,David,Printer,Office Supplies,1481.07,404.05
+1097,2021-04-09,Central,Charlie,Printer,Office Supplies,1282.86,-13.05
+1098,2022-11-15,West,David,Binder,Furniture,1188.03,174.26
+1099,2022-12-27,East,Eva,Laptop,Technology,810.73,401.13
+1100,2023-08-19,South,Frank,Printer,Technology,742.51,28.12
+1101,2022-09-05,South,Charlie,Headphones,Furniture,138.24,467.83
+1102,2022-10-05,Central,Bob,Phone,Technology,474.92,-114.68
+1103,2023-10-26,West,David,Table,Office Supplies,79.59,-187.21
+1104,2022-05-18,West,Eva,Table,Office Supplies,1183.76,432.89
+1105,2023-02-06,West,David,Printer,Furniture,256.41,-151.95
+1106,2022-02-02,South,Charlie,Headphones,Technology,1752.39,494.32
+1107,2023-05-21,Central,Helen,Monitor,Technology,1070.13,465.98
+1108,2023-03-06,East,Jack,Bookcase,Office Supplies,1414.4,-104.09
+1109,2022-01-28,South,David,Bookcase,Furniture,851.17,176.31
+1110,2021-07-26,Central,Bob,Binder,Technology,1143.13,-70.56
+1111,2023-11-05,Central,Bob,Table,Furniture,1888.19,99.71
+1112,2023-06-11,East,Alice,Printer,Technology,211.33,-157.0
+1113,2023-05-14,East,David,Bookcase,Office Supplies,545.18,-43.25
+1114,2023-01-13,East,Jack,Printer,Office Supplies,1570.98,54.29
+1115,2022-07-18,West,Ian,Binder,Furniture,242.54,107.05
+1116,2023-10-18,East,Grace,Table,Office Supplies,197.54,484.25
+1117,2021-04-06,Central,Jack,Chair,Technology,755.01,365.51
+1118,2022-04-30,East,Grace,Phone,Office Supplies,229.73,316.19
+1119,2021-08-19,Central,Grace,Phone,Furniture,1190.9,175.93
+1120,2023-01-19,South,Helen,Bookcase,Furniture,491.24,388.0
+1121,2022-06-25,West,Alice,Phone,Furniture,1796.61,37.53
+1122,2023-11-26,South,Jack,Chair,Technology,1577.83,296.23
+1123,2022-06-09,South,Jack,Printer,Technology,1414.43,495.65
+1124,2022-08-01,Central,Helen,Binder,Technology,1253.04,20.24
+1125,2022-11-13,South,David,Chair,Technology,1733.76,271.81
+1126,2022-07-11,Central,David,Binder,Technology,484.97,391.02
+1127,2023-10-10,East,David,Binder,Office Supplies,1752.56,441.07
+1128,2022-10-08,East,Frank,Table,Technology,1589.51,302.55
+1129,2023-03-07,Central,Grace,Printer,Technology,1508.91,-1.47
+1130,2023-11-18,East,Frank,Headphones,Office Supplies,1144.45,28.4
+1131,2021-07-09,West,Alice,Phone,Technology,530.18,-185.47
+1132,2022-09-25,South,Helen,Headphones,Furniture,875.92,332.62
+1133,2022-09-20,West,Jack,Table,Technology,1597.46,-170.08
+1134,2023-08-31,South,Grace,Binder,Technology,111.97,405.26
+1135,2022-12-11,East,Frank,Bookcase,Furniture,1575.0,-116.94
+1136,2022-10-11,West,Frank,Phone,Furniture,518.14,-79.69
+1137,2021-11-14,East,Eva,Phone,Furniture,331.4,133.57
+1138,2022-11-15,South,Frank,Printer,Furniture,275.62,316.52
+1139,2022-10-26,Central,Ian,Laptop,Technology,103.14,-102.7
+1140,2022-03-18,Central,Jack,Desk,Furniture,1070.99,108.05
+1141,2022-07-18,West,Ian,Desk,Furniture,475.61,138.0
+1142,2023-08-10,East,Jack,Desk,Office Supplies,1979.39,-51.4
+1143,2022-11-30,East,Helen,Laptop,Furniture,1170.15,-119.11
+1144,2021-04-23,West,Jack,Printer,Furniture,318.88,385.49
+1145,2021-01-02,Central,Ian,Laptop,Office Supplies,1393.09,151.73
+1146,2022-10-04,South,Jack,Desk,Office Supplies,1800.6,-189.93
+1147,2021-08-08,West,Helen,Table,Technology,1503.1,362.09
+1148,2023-05-05,South,Helen,Chair,Office Supplies,199.06,486.56
+1149,2022-01-20,Central,Alice,Binder,Technology,1796.97,224.15
+1150,2023-12-13,East,Jack,Laptop,Office Supplies,1598.16,152.6
+1151,2022-12-31,Central,Eva,Printer,Office Supplies,358.69,414.89
+1152,2021-09-04,West,David,Printer,Technology,150.98,466.76
+1153,2023-04-16,East,Bob,Headphones,Office Supplies,1136.76,328.18
+1154,2021-07-22,West,Helen,Chair,Technology,354.27,111.82
+1155,2021-05-03,West,Charlie,Bookcase,Office Supplies,1677.45,214.55
+1156,2022-02-05,Central,David,Phone,Furniture,748.75,290.65
+1157,2023-02-06,West,Grace,Desk,Office Supplies,1830.14,-64.01
+1158,2021-10-21,Central,Jack,Bookcase,Technology,1153.09,113.04
+1159,2021-10-07,East,Ian,Headphones,Office Supplies,406.21,380.87
+1160,2023-06-03,Central,Bob,Desk,Technology,322.22,258.31
+1161,2021-07-17,East,Charlie,Chair,Technology,1174.12,87.84
+1162,2023-09-09,Central,David,Headphones,Furniture,1535.67,264.35
+1163,2023-01-22,South,Jack,Desk,Furniture,1573.94,-117.24
+1164,2021-05-24,South,Alice,Chair,Technology,587.73,81.05
+1165,2022-09-01,West,Grace,Monitor,Office Supplies,448.28,355.19
+1166,2021-07-06,Central,Bob,Bookcase,Technology,82.67,-45.64
+1167,2022-04-09,Central,Eva,Bookcase,Technology,1374.44,-69.83
+1168,2022-10-22,East,Alice,Phone,Office Supplies,199.31,465.57
+1169,2023-02-03,West,Charlie,Chair,Office Supplies,870.48,-53.07
+1170,2023-08-13,Central,Bob,Laptop,Office Supplies,1223.28,-17.36
+1171,2022-02-07,West,Alice,Monitor,Office Supplies,1877.36,478.73
+1172,2021-05-27,South,Grace,Table,Technology,658.01,314.3
+1173,2023-05-14,Central,Eva,Desk,Technology,537.06,289.72
+1174,2022-05-04,Central,Alice,Monitor,Furniture,1325.61,397.05
+1175,2023-07-18,West,Frank,Chair,Technology,1257.52,-118.92
+1176,2022-07-05,Central,Eva,Binder,Office Supplies,697.61,294.17
+1177,2021-12-04,West,Charlie,Desk,Furniture,1859.8,152.58
+1178,2023-05-22,Central,Grace,Printer,Office Supplies,1697.48,380.41
+1179,2022-10-03,East,Jack,Bookcase,Technology,486.77,155.7
+1180,2022-04-18,West,Ian,Chair,Furniture,516.33,234.17
+1181,2021-05-31,Central,Ian,Printer,Office Supplies,1048.99,134.42
+1182,2021-09-20,South,Ian,Phone,Furniture,1558.47,134.71
+1183,2021-05-24,Central,Bob,Headphones,Furniture,135.88,337.58
+1184,2021-12-12,South,Charlie,Table,Technology,1402.0,240.0
+1185,2022-09-16,South,Grace,Table,Office Supplies,1314.06,243.28
+1186,2023-10-14,East,Eva,Printer,Furniture,501.39,115.2
+1187,2023-05-31,West,Bob,Bookcase,Furniture,1378.64,171.78
+1188,2021-01-02,Central,Charlie,Phone,Office Supplies,1883.36,322.0
+1189,2023-06-16,East,Jack,Binder,Furniture,141.23,378.16
+1190,2021-09-11,Central,Frank,Bookcase,Furniture,673.32,287.59
+1191,2022-03-29,South,Grace,Monitor,Furniture,904.44,446.85
+1192,2023-11-27,West,Ian,Table,Office Supplies,1803.56,374.23
+1193,2023-10-12,Central,Alice,Monitor,Office Supplies,1926.41,193.3
+1194,2021-01-09,Central,Grace,Desk,Office Supplies,916.02,269.98
+1195,2023-03-27,South,Helen,Laptop,Office Supplies,1512.56,448.42
+1196,2021-07-27,Central,Charlie,Chair,Technology,1086.74,233.42
+1197,2022-02-08,Central,David,Phone,Furniture,1098.68,377.36
+1198,2021-06-01,South,Jack,Bookcase,Office Supplies,592.29,282.17
+1199,2021-02-23,East,Frank,Table,Furniture,473.06,186.36
+1200,2022-09-20,South,Jack,Monitor,Furniture,611.61,-30.71
+1201,2022-08-10,East,Grace,Headphones,Technology,1134.84,98.2
+1202,2021-04-14,West,David,Desk,Office Supplies,106.85,477.42
+1203,2021-09-11,East,Helen,Chair,Office Supplies,1819.14,260.44
+1204,2022-05-25,East,Eva,Chair,Furniture,354.75,195.08
+1205,2021-04-09,West,Alice,Bookcase,Office Supplies,479.17,453.07
+1206,2021-06-02,East,David,Phone,Furniture,1060.64,210.56
+1207,2023-07-03,South,Charlie,Binder,Furniture,1434.72,168.26
+1208,2023-05-28,East,Ian,Headphones,Technology,236.67,331.52
+1209,2021-12-04,West,Helen,Bookcase,Technology,669.5,298.87
+1210,2023-04-02,South,Alice,Monitor,Technology,1938.92,-64.79
+1211,2023-08-15,West,Frank,Laptop,Furniture,561.57,129.92
+1212,2021-06-10,West,Ian,Printer,Office Supplies,660.45,130.76
+1213,2023-03-12,Central,Grace,Binder,Technology,1681.17,64.76
+1214,2022-02-02,Central,David,Phone,Office Supplies,147.92,162.11
+1215,2023-03-27,West,Alice,Desk,Technology,956.0,89.18
+1216,2022-02-05,West,Bob,Binder,Technology,790.25,-60.46
+1217,2022-10-02,West,Eva,Table,Furniture,667.34,88.66
+1218,2023-11-23,Central,Eva,Phone,Technology,607.11,-149.41
+1219,2022-11-19,Central,Helen,Laptop,Technology,228.18,203.05
+1220,2022-04-05,East,Frank,Table,Furniture,663.91,397.56
+1221,2023-08-13,East,Helen,Binder,Office Supplies,133.95,307.7
+1222,2022-04-15,West,Bob,Printer,Technology,1572.88,52.28
+1223,2023-11-12,South,Charlie,Printer,Furniture,826.54,-139.05
+1224,2023-01-20,South,Frank,Laptop,Technology,915.61,-58.5
+1225,2021-02-07,Central,Jack,Chair,Furniture,1792.51,181.84
+1226,2021-08-18,Central,Charlie,Headphones,Office Supplies,1333.21,-55.06
+1227,2022-07-17,Central,Frank,Desk,Office Supplies,65.72,180.78
+1228,2022-03-14,West,Frank,Chair,Furniture,1889.19,-37.88
+1229,2021-01-27,South,Bob,Printer,Furniture,512.43,394.25
+1230,2021-08-14,East,Grace,Printer,Furniture,259.85,78.09
+1231,2023-03-09,West,Bob,Monitor,Office Supplies,1547.85,-28.11
+1232,2021-10-11,East,Frank,Table,Technology,1025.93,368.63
+1233,2023-05-29,East,Alice,Binder,Office Supplies,895.85,39.99
+1234,2023-08-18,West,Charlie,Desk,Furniture,536.53,-121.96
+1235,2022-03-29,East,Bob,Laptop,Furniture,1117.57,199.29
+1236,2023-10-17,South,Grace,Binder,Office Supplies,585.05,207.09
+1237,2023-03-27,East,David,Monitor,Furniture,1808.09,300.29
+1238,2022-10-21,South,Helen,Printer,Office Supplies,469.65,-31.85
+1239,2022-07-01,South,Frank,Laptop,Furniture,1774.49,110.64
+1240,2023-12-09,South,Jack,Printer,Technology,1140.84,-2.34
+1241,2021-01-17,Central,David,Desk,Technology,1665.55,-143.33
+1242,2021-06-07,East,Eva,Table,Furniture,1440.05,413.63
+1243,2022-04-22,West,Ian,Binder,Office Supplies,1408.56,310.21
+1244,2023-12-06,West,Grace,Binder,Technology,682.47,11.02
+1245,2022-06-02,East,Jack,Chair,Office Supplies,506.1,219.56
+1246,2021-04-09,Central,Ian,Laptop,Furniture,461.23,-59.12
+1247,2023-11-27,Central,Grace,Headphones,Office Supplies,1721.52,423.17
+1248,2021-10-07,South,Alice,Monitor,Technology,1649.83,-119.57
+1249,2022-05-12,East,Helen,Headphones,Office Supplies,909.12,-197.31
+1250,2021-10-29,East,David,Chair,Office Supplies,308.19,151.41
+1251,2021-06-30,West,Charlie,Desk,Furniture,795.39,208.19
+1252,2022-08-30,East,Grace,Monitor,Furniture,1257.72,205.28
+1253,2022-12-01,Central,Charlie,Table,Furniture,936.09,-161.84
+1254,2023-09-20,East,Helen,Headphones,Technology,1571.37,19.83
+1255,2021-07-10,West,Frank,Table,Technology,1995.36,149.44
+1256,2021-09-10,South,Eva,Headphones,Furniture,422.71,-48.39
+1257,2023-09-08,West,David,Table,Furniture,946.32,410.84
+1258,2023-07-17,West,Helen,Headphones,Technology,890.42,-139.02
+1259,2021-05-08,South,Helen,Table,Technology,643.76,141.17
+1260,2021-01-18,West,Alice,Chair,Technology,436.29,283.99
+1261,2022-07-20,West,Ian,Phone,Technology,178.1,-16.77
+1262,2022-07-24,East,Eva,Monitor,Furniture,1779.88,236.97
+1263,2022-11-17,East,David,Laptop,Technology,868.7,380.57
+1264,2022-09-18,South,Frank,Desk,Furniture,1018.95,-66.76
+1265,2023-05-04,East,Frank,Bookcase,Office Supplies,1838.04,442.05
+1266,2023-08-20,East,Bob,Printer,Office Supplies,1563.77,187.49
+1267,2021-06-04,West,Helen,Laptop,Technology,304.48,9.46
+1268,2022-05-05,Central,Grace,Printer,Office Supplies,1152.57,101.6
+1269,2023-02-24,East,Alice,Monitor,Office Supplies,912.39,18.53
+1270,2021-09-03,Central,Eva,Laptop,Office Supplies,1604.56,307.58
+1271,2023-11-29,East,Frank,Table,Technology,1462.25,357.41
+1272,2023-01-29,East,David,Table,Technology,1396.29,383.06
+1273,2022-06-22,South,Bob,Bookcase,Office Supplies,714.06,490.04
+1274,2023-07-10,South,David,Printer,Furniture,1619.68,353.9
+1275,2022-02-12,South,Alice,Desk,Office Supplies,152.16,220.97
+1276,2022-06-09,Central,Grace,Monitor,Technology,361.27,37.45
+1277,2023-04-08,West,Bob,Table,Technology,704.47,181.22
+1278,2023-06-22,East,Bob,Phone,Technology,199.77,-171.25
+1279,2021-02-05,East,Ian,Chair,Office Supplies,508.24,321.38
+1280,2022-11-16,East,Eva,Chair,Furniture,1668.79,112.17
+1281,2021-01-20,Central,Bob,Headphones,Technology,1899.09,-185.98
+1282,2021-11-17,South,Ian,Desk,Technology,643.97,-156.25
+1283,2022-05-27,West,Ian,Chair,Office Supplies,565.81,71.23
+1284,2022-02-04,Central,Alice,Headphones,Furniture,595.79,208.4
+1285,2022-10-16,South,Charlie,Printer,Office Supplies,591.55,124.94
+1286,2023-08-30,Central,David,Table,Technology,120.06,233.44
+1287,2022-04-16,West,Grace,Table,Furniture,1857.49,136.21
+1288,2023-04-14,South,Jack,Phone,Furniture,466.71,263.19
+1289,2022-12-28,Central,David,Laptop,Technology,869.01,-46.61
+1290,2023-05-04,West,Bob,Chair,Furniture,68.89,-121.01
+1291,2021-02-20,East,Grace,Printer,Furniture,1723.01,217.5
+1292,2022-07-29,West,Frank,Binder,Office Supplies,1475.76,139.28
+1293,2021-05-30,East,Charlie,Chair,Technology,1896.17,-181.19
+1294,2021-11-10,Central,Frank,Desk,Technology,1574.15,66.34
+1295,2022-07-24,South,Frank,Laptop,Technology,661.73,-125.71
+1296,2021-11-01,South,Eva,Chair,Technology,533.35,171.95
+1297,2022-11-13,Central,David,Printer,Technology,1410.55,77.04
+1298,2023-04-18,South,Jack,Chair,Furniture,760.02,229.21
+1299,2023-12-14,South,Alice,Desk,Office Supplies,1154.12,363.92
+1300,2023-09-30,East,Jack,Binder,Technology,62.2,9.77
+1301,2022-03-20,Central,Frank,Monitor,Office Supplies,170.68,473.47
+1302,2022-09-05,West,Bob,Bookcase,Office Supplies,1093.97,174.94
+1303,2023-09-20,East,Charlie,Binder,Furniture,1153.84,232.8
+1304,2021-09-21,Central,Helen,Headphones,Technology,1515.33,276.47
+1305,2023-12-13,East,Jack,Chair,Furniture,307.33,266.71
+1306,2023-10-01,West,Frank,Table,Technology,1050.71,157.68
+1307,2021-01-05,West,Charlie,Phone,Furniture,429.17,100.14
+1308,2023-02-13,Central,Grace,Table,Office Supplies,231.73,-162.35
+1309,2023-05-27,West,David,Binder,Technology,850.47,-184.54
+1310,2023-09-19,East,Ian,Table,Office Supplies,368.51,50.57
+1311,2023-06-03,West,Eva,Printer,Office Supplies,482.47,33.56
+1312,2021-02-16,East,Charlie,Table,Furniture,669.23,71.39
+1313,2023-05-17,East,Bob,Laptop,Technology,555.81,-103.14
+1314,2023-04-03,West,Bob,Monitor,Office Supplies,220.8,316.72
+1315,2023-07-25,Central,Charlie,Chair,Furniture,225.34,399.88
+1316,2022-10-18,South,Bob,Table,Technology,426.84,457.1
+1317,2021-09-26,West,David,Desk,Technology,148.59,144.65
+1318,2022-01-05,East,Bob,Monitor,Office Supplies,1271.59,290.61
+1319,2022-09-28,East,Jack,Monitor,Technology,610.29,398.89
+1320,2022-10-19,West,Ian,Table,Office Supplies,595.5,92.8
+1321,2021-04-30,Central,Bob,Monitor,Technology,697.4,16.59
+1322,2023-04-11,Central,Ian,Phone,Furniture,1342.45,455.71
+1323,2023-12-18,East,Frank,Table,Office Supplies,1747.74,160.97
+1324,2023-01-11,East,Alice,Printer,Office Supplies,1530.22,148.08
+1325,2021-04-27,Central,David,Binder,Technology,1468.68,-75.11
+1326,2023-03-02,South,Alice,Laptop,Technology,994.56,-124.29
+1327,2023-10-10,West,Frank,Bookcase,Office Supplies,1402.92,389.47
+1328,2023-12-18,East,David,Headphones,Technology,1127.89,229.89
+1329,2022-09-26,East,Charlie,Monitor,Furniture,471.69,28.08
+1330,2022-05-28,Central,Charlie,Printer,Technology,456.75,-65.78
+1331,2023-03-13,West,Ian,Chair,Furniture,627.96,188.85
+1332,2022-07-14,Central,Frank,Chair,Furniture,1826.07,208.74
+1333,2022-05-03,West,Ian,Headphones,Furniture,1117.46,-55.1
+1334,2023-06-16,West,Eva,Laptop,Furniture,1481.12,395.98
+1335,2022-12-05,West,Bob,Monitor,Furniture,725.79,-141.01
+1336,2022-08-04,East,Helen,Phone,Technology,845.05,49.27
+1337,2023-03-01,South,Eva,Headphones,Furniture,294.85,276.27
+1338,2023-05-11,Central,Bob,Laptop,Technology,384.03,-8.12
+1339,2021-09-04,South,David,Monitor,Furniture,1663.35,379.37
+1340,2021-06-03,Central,Ian,Printer,Office Supplies,1190.44,317.91
+1341,2023-09-24,West,David,Binder,Furniture,708.19,352.32
+1342,2022-11-28,East,David,Phone,Office Supplies,1615.56,-116.63
+1343,2023-12-29,South,Bob,Bookcase,Furniture,530.71,-101.62
+1344,2023-12-07,East,Frank,Chair,Furniture,1953.26,0.53
+1345,2023-10-06,Central,Bob,Desk,Furniture,722.39,162.65
+1346,2021-04-04,East,Grace,Printer,Office Supplies,707.76,323.61
+1347,2023-08-16,East,Charlie,Chair,Office Supplies,658.23,385.57
+1348,2023-10-09,South,Charlie,Table,Furniture,288.12,293.03
+1349,2022-03-29,West,Eva,Desk,Technology,266.72,450.02
+1350,2023-07-01,East,Charlie,Chair,Furniture,1313.8,317.12
+1351,2021-08-06,West,Bob,Laptop,Office Supplies,1756.48,14.39
+1352,2022-04-19,Central,Jack,Phone,Furniture,1591.51,-14.44
+1353,2022-03-08,East,Ian,Chair,Office Supplies,325.16,287.33
+1354,2021-12-07,South,Bob,Bookcase,Office Supplies,1113.89,-64.99
+1355,2022-07-05,Central,Bob,Binder,Office Supplies,255.9,-135.1
+1356,2021-12-23,Central,Helen,Laptop,Furniture,138.32,172.56
+1357,2021-01-23,South,Ian,Printer,Office Supplies,1329.95,375.15
+1358,2022-06-06,East,Grace,Printer,Office Supplies,1093.55,-129.03
+1359,2023-03-13,East,Charlie,Printer,Furniture,209.95,354.32
+1360,2023-02-01,Central,Ian,Printer,Office Supplies,118.13,368.1
+1361,2022-03-18,East,Charlie,Binder,Furniture,1980.03,137.59
+1362,2023-02-08,West,Eva,Chair,Office Supplies,108.54,-159.88
+1363,2023-10-13,South,Ian,Monitor,Technology,916.83,-77.79
+1364,2022-05-31,West,Charlie,Chair,Technology,1034.01,295.2
+1365,2023-11-06,East,Grace,Table,Office Supplies,278.7,298.24
+1366,2023-03-03,Central,Alice,Phone,Technology,379.67,428.85
+1367,2021-12-02,South,David,Desk,Furniture,736.02,207.88
+1368,2021-09-15,East,David,Monitor,Technology,1535.27,-113.12
+1369,2022-05-12,East,Grace,Monitor,Office Supplies,1038.81,-115.01
+1370,2023-06-15,Central,Helen,Chair,Office Supplies,1293.91,304.79
+1371,2021-06-09,Central,Alice,Monitor,Furniture,1971.09,-71.35
+1372,2023-05-02,West,Eva,Headphones,Office Supplies,1547.61,29.87
+1373,2022-11-21,South,Grace,Headphones,Furniture,897.0,141.05
+1374,2022-01-15,South,David,Table,Technology,920.56,-182.66
+1375,2023-08-15,Central,David,Desk,Technology,1256.61,-25.83
+1376,2022-11-22,West,David,Bookcase,Furniture,1347.46,85.52
+1377,2023-12-03,South,Frank,Binder,Furniture,1026.39,-4.25
+1378,2021-10-12,Central,Grace,Chair,Office Supplies,1307.48,-104.54
+1379,2022-02-01,East,Bob,Binder,Technology,95.89,309.61
+1380,2021-01-12,South,Eva,Bookcase,Furniture,887.76,369.2
+1381,2022-05-14,West,David,Chair,Technology,593.93,-19.76
+1382,2023-01-24,West,Charlie,Chair,Furniture,301.89,342.09
+1383,2021-02-04,West,Grace,Desk,Technology,244.12,69.89
+1384,2022-12-28,East,Frank,Binder,Office Supplies,1226.22,154.68
+1385,2023-04-29,South,Grace,Headphones,Technology,1071.02,399.2
+1386,2021-03-31,South,Eva,Printer,Technology,544.49,324.97
+1387,2023-02-15,East,Frank,Binder,Technology,968.35,363.58
+1388,2022-08-28,South,Eva,Phone,Technology,1009.85,-104.21
+1389,2023-08-28,East,Grace,Phone,Technology,430.27,-151.2
+1390,2023-10-19,East,Bob,Chair,Office Supplies,1321.58,425.38
+1391,2022-02-22,East,Eva,Printer,Furniture,1572.79,71.48
+1392,2021-04-25,West,Frank,Laptop,Technology,1593.35,1.52
+1393,2022-09-09,South,Frank,Bookcase,Office Supplies,1224.82,307.29
+1394,2023-04-06,East,Eva,Table,Technology,1047.7,385.49
+1395,2022-02-17,South,Jack,Printer,Technology,168.96,403.74
+1396,2022-12-30,West,Grace,Table,Furniture,611.27,21.2
+1397,2023-10-18,East,Jack,Binder,Technology,231.88,396.55
+1398,2023-01-31,Central,Helen,Binder,Office Supplies,1929.46,-171.35
+1399,2022-11-07,West,Grace,Table,Office Supplies,313.41,-165.24
+1400,2022-04-02,Central,Eva,Bookcase,Furniture,345.96,236.46
+1401,2023-07-09,South,Alice,Printer,Technology,1784.67,-155.83
+1402,2021-07-11,South,Eva,Laptop,Office Supplies,1890.66,27.23
+1403,2023-01-09,West,Jack,Chair,Technology,1543.37,270.93
+1404,2023-09-05,South,Bob,Desk,Technology,60.54,36.09
+1405,2023-10-06,Central,Eva,Binder,Technology,52.63,-74.28
+1406,2021-04-06,East,Eva,Phone,Furniture,787.3,-3.05
+1407,2022-10-25,East,Bob,Bookcase,Technology,329.62,120.3
+1408,2021-02-06,East,Eva,Desk,Office Supplies,85.85,132.77
+1409,2021-10-06,West,David,Laptop,Technology,954.93,348.1
+1410,2021-08-05,South,Alice,Monitor,Office Supplies,1888.97,325.11
+1411,2023-05-17,Central,Charlie,Chair,Technology,681.45,119.77
+1412,2023-05-23,South,Alice,Binder,Office Supplies,1339.22,391.97
+1413,2021-03-03,South,Eva,Chair,Office Supplies,1321.86,-120.03
+1414,2022-08-19,South,David,Desk,Technology,539.61,-21.25
+1415,2022-12-30,East,Grace,Chair,Technology,1318.33,379.58
+1416,2022-02-01,Central,Eva,Monitor,Office Supplies,464.05,64.6
+1417,2022-11-30,Central,Jack,Desk,Furniture,287.91,486.83
+1418,2023-11-09,South,David,Binder,Technology,1417.7,126.38
+1419,2021-06-26,East,Bob,Printer,Furniture,271.21,354.35
+1420,2022-01-31,East,David,Phone,Technology,1993.97,81.61
+1421,2022-03-21,Central,Bob,Desk,Technology,407.73,97.47
+1422,2021-03-17,East,Helen,Headphones,Technology,1208.58,68.02
+1423,2021-09-22,East,Charlie,Monitor,Technology,852.18,303.35
+1424,2022-03-31,East,Ian,Desk,Furniture,296.45,183.26
+1425,2022-12-19,West,David,Desk,Technology,104.3,460.64
+1426,2023-01-05,South,Frank,Headphones,Office Supplies,1264.33,-24.38
+1427,2023-05-01,Central,Jack,Binder,Office Supplies,1623.18,-129.61
+1428,2021-05-24,Central,Eva,Desk,Furniture,1691.93,75.28
+1429,2023-06-04,West,Jack,Phone,Technology,991.29,231.7
+1430,2023-12-29,South,Alice,Chair,Office Supplies,1566.04,402.56
+1431,2022-01-31,Central,Ian,Binder,Furniture,1362.05,42.34
+1432,2023-11-15,East,Alice,Phone,Technology,1462.3,257.65
+1433,2023-08-06,Central,Helen,Binder,Office Supplies,1010.57,45.14
+1434,2023-06-10,East,Ian,Phone,Office Supplies,1285.15,232.05
+1435,2022-07-23,West,Ian,Monitor,Furniture,1620.78,419.37
+1436,2023-11-29,East,Alice,Phone,Technology,825.87,-38.05
+1437,2021-04-19,Central,Bob,Table,Technology,1621.66,82.97
+1438,2023-12-02,Central,Alice,Phone,Office Supplies,1204.43,495.29
+1439,2023-07-24,Central,Jack,Printer,Office Supplies,373.51,407.99
+1440,2022-02-02,West,Bob,Printer,Office Supplies,98.13,195.25
+1441,2022-09-26,West,Jack,Bookcase,Technology,757.37,161.64
+1442,2023-01-03,South,Helen,Table,Furniture,1116.06,-0.78
+1443,2021-08-23,Central,Eva,Table,Furniture,1687.65,162.05
+1444,2022-10-20,East,Grace,Chair,Technology,298.6,393.73
+1445,2023-01-21,West,Bob,Table,Furniture,1610.4,279.62
+1446,2022-08-11,Central,Helen,Chair,Office Supplies,1732.87,3.03
+1447,2023-10-30,Central,Frank,Bookcase,Furniture,343.84,-58.98
+1448,2023-08-12,West,Helen,Bookcase,Furniture,1710.61,-14.35
+1449,2022-05-07,South,Alice,Monitor,Furniture,1983.33,-81.17
+1450,2023-07-02,West,Alice,Printer,Office Supplies,1467.34,-133.05
+1451,2021-06-19,West,Grace,Phone,Technology,1580.3,93.4
+1452,2023-08-04,East,Helen,Phone,Office Supplies,1989.11,-120.69
+1453,2023-03-06,East,Charlie,Headphones,Technology,1230.69,-79.66
+1454,2022-09-26,South,Eva,Headphones,Technology,650.38,183.13
+1455,2021-01-29,Central,Alice,Laptop,Technology,1683.19,-84.78
+1456,2021-12-05,West,Grace,Binder,Furniture,1248.25,-155.28
+1457,2022-05-15,South,Eva,Monitor,Furniture,1183.33,22.17
+1458,2022-05-26,East,Helen,Laptop,Technology,544.59,-45.78
+1459,2021-08-05,West,Helen,Laptop,Technology,1524.85,160.71
+1460,2023-12-30,Central,Ian,Desk,Furniture,209.25,-128.34
+1461,2022-03-21,East,Grace,Desk,Office Supplies,1852.36,326.24
+1462,2023-05-26,East,Alice,Laptop,Technology,685.36,434.36
+1463,2021-06-16,East,Charlie,Table,Office Supplies,299.16,320.4
+1464,2021-04-01,South,Helen,Binder,Furniture,912.61,172.98
+1465,2022-12-15,Central,Charlie,Monitor,Technology,132.82,402.47
+1466,2021-02-08,West,Helen,Laptop,Office Supplies,1385.02,286.44
+1467,2021-06-22,South,Alice,Phone,Office Supplies,1810.28,-192.61
+1468,2022-10-15,South,Eva,Binder,Office Supplies,1682.66,75.86
+1469,2023-01-24,South,David,Desk,Furniture,298.37,395.67
+1470,2023-12-18,East,Eva,Phone,Furniture,296.23,42.1
+1471,2022-04-21,Central,Helen,Desk,Office Supplies,1636.2,-175.35
+1472,2022-04-01,South,Jack,Desk,Office Supplies,1852.3,322.33
+1473,2023-04-09,West,David,Binder,Furniture,948.31,361.43
+1474,2023-06-14,Central,David,Desk,Office Supplies,1022.99,-87.58
+1475,2023-10-22,West,Charlie,Bookcase,Office Supplies,670.61,176.14
+1476,2022-01-22,Central,Grace,Printer,Furniture,1793.82,-65.63
+1477,2021-12-14,West,Charlie,Bookcase,Office Supplies,1307.56,303.46
+1478,2021-07-09,East,Charlie,Printer,Office Supplies,612.09,-9.91
+1479,2022-05-20,South,Jack,Headphones,Office Supplies,632.63,21.35
+1480,2023-04-04,West,Eva,Headphones,Furniture,1787.84,391.48
+1481,2023-07-18,Central,Eva,Desk,Office Supplies,76.59,133.43
+1482,2023-07-23,South,Frank,Monitor,Furniture,679.32,268.83
+1483,2021-05-14,South,Helen,Monitor,Furniture,1131.0,81.66
+1484,2021-02-27,Central,Jack,Printer,Technology,339.02,8.6
+1485,2022-11-16,West,Frank,Phone,Technology,229.59,237.83
+1486,2022-11-03,East,Alice,Binder,Office Supplies,1639.79,-91.6
+1487,2021-06-22,East,Helen,Desk,Furniture,1794.09,61.1
+1488,2023-03-26,West,Helen,Binder,Technology,1656.03,-53.67
+1489,2021-03-21,South,Ian,Bookcase,Office Supplies,1802.64,287.06
+1490,2023-06-05,South,Ian,Monitor,Technology,1128.57,460.95
+1491,2021-07-22,South,Bob,Table,Technology,1633.9,496.86
+1492,2023-02-03,South,Bob,Bookcase,Furniture,798.88,115.19
+1493,2021-02-16,West,Charlie,Bookcase,Furniture,1349.22,-23.23
+1494,2022-10-18,South,Alice,Printer,Technology,1978.23,109.98
+1495,2022-04-16,Central,David,Chair,Technology,490.17,393.09
+1496,2023-08-29,South,David,Bookcase,Furniture,810.3,-55.8
+1497,2023-11-02,East,Ian,Desk,Office Supplies,986.09,466.47
+1498,2023-01-06,South,Ian,Laptop,Furniture,319.13,39.31
+1499,2023-02-23,West,Ian,Laptop,Technology,208.03,490.06
+1500,2023-08-26,East,Jack,Desk,Office Supplies,1667.96,387.03
+1501,2021-12-24,West,Grace,Chair,Technology,1954.75,366.0
+1502,2023-08-30,West,Bob,Chair,Office Supplies,839.21,22.53
+1503,2022-10-30,East,Jack,Printer,Technology,220.92,-193.86
+1504,2022-01-08,West,Eva,Monitor,Office Supplies,178.33,67.49
+1505,2023-10-29,West,David,Binder,Office Supplies,1788.07,11.27
+1506,2022-11-07,South,Helen,Chair,Technology,954.44,-173.82
+1507,2021-03-31,Central,Bob,Table,Office Supplies,674.05,153.76
+1508,2022-11-29,West,Frank,Printer,Furniture,979.1,82.12
+1509,2022-06-24,West,Eva,Headphones,Technology,670.69,244.19
+1510,2023-01-02,West,Bob,Phone,Furniture,1003.62,234.83
+1511,2023-05-19,South,Jack,Headphones,Technology,1726.13,-115.48
+1512,2021-02-10,Central,Alice,Printer,Office Supplies,1204.99,483.88
+1513,2023-01-10,East,Helen,Bookcase,Office Supplies,1404.57,-69.15
+1514,2022-05-17,South,Bob,Binder,Office Supplies,761.11,111.69
+1515,2023-08-17,South,Grace,Phone,Technology,1490.09,141.68
+1516,2023-07-18,Central,Ian,Headphones,Furniture,1349.9,369.14
+1517,2022-04-06,Central,Ian,Phone,Furniture,283.15,-130.54
+1518,2023-01-02,South,Helen,Table,Technology,1166.65,100.05
+1519,2023-01-22,East,Jack,Table,Technology,550.65,239.95
+1520,2023-07-14,South,Ian,Table,Furniture,1617.99,-49.39
+1521,2023-06-28,Central,Bob,Printer,Furniture,880.58,239.23
+1522,2022-01-25,East,Frank,Binder,Furniture,1989.63,446.57
+1523,2023-06-02,Central,David,Printer,Furniture,230.38,498.26
+1524,2021-09-13,East,David,Laptop,Technology,1571.68,-177.28
+1525,2022-12-10,West,Eva,Bookcase,Technology,1363.72,-35.09
+1526,2022-03-26,Central,Charlie,Bookcase,Office Supplies,1546.62,17.21
+1527,2021-01-10,Central,Alice,Table,Furniture,649.68,79.39
+1528,2023-04-04,South,Helen,Laptop,Office Supplies,1009.51,-30.42
+1529,2023-03-09,Central,Eva,Chair,Technology,1603.19,-57.56
+1530,2023-05-27,Central,Charlie,Chair,Technology,503.46,468.19
+1531,2023-10-26,West,Jack,Table,Office Supplies,490.76,442.97
+1532,2023-10-13,Central,Grace,Headphones,Furniture,1124.55,-167.11
+1533,2022-01-09,West,Grace,Printer,Furniture,1070.95,37.17
+1534,2023-12-25,West,Alice,Table,Furniture,600.41,83.6
+1535,2021-05-26,West,Ian,Monitor,Furniture,631.25,-32.69
+1536,2021-08-12,West,Bob,Phone,Office Supplies,591.8,240.21
+1537,2021-06-26,East,Eva,Bookcase,Office Supplies,1554.45,248.27
+1538,2023-05-03,South,Eva,Chair,Technology,1321.21,395.35
+1539,2021-03-04,East,Helen,Desk,Furniture,1673.21,318.61
+1540,2023-04-07,Central,Helen,Chair,Furniture,1952.17,179.8
+1541,2023-03-06,East,Grace,Bookcase,Furniture,974.62,257.51
+1542,2022-11-20,East,Grace,Phone,Office Supplies,180.05,-8.21
+1543,2021-04-15,Central,Frank,Bookcase,Furniture,143.78,215.14
+1544,2022-05-26,Central,Frank,Desk,Office Supplies,626.55,142.46
+1545,2022-01-20,Central,Ian,Table,Furniture,1868.46,-106.66
+1546,2022-02-09,East,Frank,Laptop,Furniture,1070.27,-30.22
+1547,2023-04-03,East,Bob,Desk,Technology,579.98,4.19
+1548,2022-06-02,Central,Bob,Bookcase,Furniture,828.38,447.02
+1549,2022-04-21,South,Eva,Bookcase,Furniture,1217.26,-38.73
+1550,2022-12-10,South,David,Monitor,Technology,1323.25,2.47
+1551,2023-02-10,West,Bob,Monitor,Office Supplies,350.14,58.55
+1552,2023-11-13,Central,Charlie,Binder,Office Supplies,1955.21,264.62
+1553,2023-09-24,West,Grace,Monitor,Furniture,1112.31,-117.23
+1554,2022-11-08,South,Helen,Printer,Office Supplies,314.59,467.76
+1555,2022-12-15,West,Frank,Laptop,Furniture,1792.59,405.9
+1556,2021-03-24,Central,Eva,Phone,Technology,195.54,204.05
+1557,2022-04-02,Central,Alice,Desk,Technology,1820.08,271.83
+1558,2021-01-01,Central,Helen,Bookcase,Furniture,1993.3,-188.34
+1559,2021-02-20,East,Charlie,Binder,Technology,1415.84,37.26
+1560,2022-11-16,West,Frank,Binder,Technology,1552.37,356.96
+1561,2022-12-18,South,Charlie,Phone,Furniture,707.74,-145.76
+1562,2022-03-25,South,Grace,Laptop,Furniture,1886.07,-2.38
+1563,2023-05-31,South,Grace,Desk,Technology,1082.94,209.71
+1564,2022-05-03,East,Ian,Chair,Office Supplies,1478.16,-20.51
+1565,2021-02-03,East,Eva,Monitor,Office Supplies,1852.01,453.78
+1566,2021-04-05,Central,Helen,Table,Furniture,1951.6,-108.26
+1567,2021-06-03,South,Jack,Binder,Furniture,1674.75,358.18
+1568,2021-09-07,East,Jack,Monitor,Office Supplies,640.88,155.56
+1569,2022-11-05,Central,Helen,Monitor,Technology,1934.77,325.23
+1570,2022-03-14,South,Alice,Printer,Office Supplies,1274.83,17.5
+1571,2021-04-28,West,Eva,Laptop,Office Supplies,1864.75,160.14
+1572,2023-02-10,Central,Charlie,Table,Office Supplies,1368.4,399.78
+1573,2021-09-25,East,Alice,Chair,Office Supplies,649.12,126.81
+1574,2023-12-14,East,David,Bookcase,Furniture,771.55,51.8
+1575,2021-08-24,Central,Helen,Printer,Furniture,1123.42,175.31
+1576,2022-01-24,Central,Charlie,Monitor,Technology,1590.53,302.15
+1577,2023-09-17,East,Jack,Monitor,Technology,670.07,110.49
+1578,2023-02-02,West,Bob,Headphones,Technology,1180.48,457.21
+1579,2022-02-05,South,Ian,Table,Technology,723.97,6.46
+1580,2022-09-16,West,Jack,Table,Office Supplies,1640.75,132.82
+1581,2023-02-06,Central,Eva,Headphones,Furniture,960.12,329.85
+1582,2023-07-08,West,Grace,Table,Furniture,199.61,282.38
+1583,2023-05-03,East,Bob,Monitor,Technology,373.8,404.55
+1584,2022-08-01,Central,Ian,Binder,Technology,169.15,497.77
+1585,2021-03-16,South,Ian,Desk,Office Supplies,1023.64,98.8
+1586,2022-03-11,East,David,Monitor,Office Supplies,257.36,-122.19
+1587,2021-04-13,East,David,Printer,Technology,272.57,-178.71
+1588,2023-02-03,South,Frank,Laptop,Furniture,1885.04,308.81
+1589,2023-01-08,South,Jack,Headphones,Furniture,1751.68,411.81
+1590,2023-03-17,West,Jack,Chair,Furniture,931.57,-45.5
+1591,2021-04-08,Central,Jack,Bookcase,Technology,1972.32,-89.09
+1592,2023-03-09,South,Frank,Chair,Furniture,50.36,-156.46
+1593,2023-05-09,South,Alice,Monitor,Office Supplies,1247.26,375.89
+1594,2022-03-11,Central,Ian,Printer,Office Supplies,1252.03,17.97
+1595,2022-03-23,South,Bob,Monitor,Technology,942.01,81.19
+1596,2021-09-06,South,Eva,Laptop,Office Supplies,824.05,151.93
+1597,2021-06-15,West,Ian,Binder,Technology,938.0,387.62
+1598,2023-09-11,East,David,Bookcase,Furniture,859.17,255.58
+1599,2023-10-17,East,Charlie,Laptop,Furniture,1474.46,230.55
+1600,2022-06-26,East,Grace,Headphones,Furniture,313.94,-77.03
+1601,2023-01-29,East,Frank,Headphones,Office Supplies,435.4,159.23
+1602,2021-03-22,South,Helen,Monitor,Technology,402.01,300.77
+1603,2021-05-13,Central,Charlie,Printer,Furniture,561.82,481.28
+1604,2023-03-08,Central,Eva,Laptop,Technology,1074.25,-59.02
+1605,2023-06-19,West,Jack,Phone,Furniture,266.86,-193.32
+1606,2021-05-18,West,David,Printer,Office Supplies,1742.93,-147.29
+1607,2021-07-03,South,David,Binder,Office Supplies,629.85,63.1
+1608,2023-02-24,Central,David,Headphones,Technology,366.95,374.38
+1609,2023-09-11,Central,Jack,Monitor,Office Supplies,1367.46,-195.0
+1610,2021-03-10,East,Helen,Table,Office Supplies,124.27,119.71
+1611,2022-06-30,South,Frank,Headphones,Technology,1258.94,30.46
+1612,2021-02-22,South,Charlie,Bookcase,Furniture,1411.49,-163.26
+1613,2021-07-24,East,Jack,Desk,Office Supplies,469.09,115.17
+1614,2021-05-06,South,Eva,Table,Technology,131.83,-21.68
+1615,2021-02-12,South,Frank,Monitor,Office Supplies,759.11,46.32
+1616,2021-04-21,West,Eva,Phone,Office Supplies,242.26,293.93
+1617,2023-01-31,Central,Frank,Table,Office Supplies,277.13,165.09
+1618,2023-04-28,South,Helen,Bookcase,Office Supplies,545.81,-112.75
+1619,2021-04-05,West,Grace,Printer,Technology,626.16,472.99
+1620,2023-06-19,Central,Eva,Phone,Technology,1083.44,245.14
+1621,2021-12-26,East,Jack,Headphones,Technology,1372.86,336.11
+1622,2023-06-19,West,Frank,Phone,Office Supplies,1205.9,-144.55
+1623,2021-10-08,West,David,Laptop,Office Supplies,339.3,-167.06
+1624,2022-10-29,Central,Ian,Bookcase,Office Supplies,385.57,-186.39
+1625,2021-04-03,East,David,Table,Technology,1763.6,-67.84
+1626,2022-11-03,West,Alice,Laptop,Office Supplies,1138.79,90.09
+1627,2021-03-02,South,Grace,Phone,Furniture,1746.38,455.08
+1628,2022-09-26,South,Grace,Laptop,Office Supplies,774.52,119.94
+1629,2023-12-11,South,David,Chair,Furniture,1248.08,3.18
+1630,2023-10-26,East,Charlie,Bookcase,Office Supplies,1071.14,193.35
+1631,2022-08-27,West,Helen,Binder,Technology,672.29,-121.65
+1632,2022-11-13,South,Eva,Printer,Office Supplies,966.33,226.65
+1633,2022-06-18,East,Jack,Phone,Furniture,1029.86,197.9
+1634,2023-04-18,South,Grace,Bookcase,Furniture,441.5,354.4
+1635,2022-10-07,Central,David,Binder,Office Supplies,664.27,490.68
+1636,2021-08-21,West,David,Binder,Furniture,1593.25,-24.39
+1637,2022-06-08,West,Helen,Monitor,Furniture,1835.79,156.76
+1638,2021-12-12,East,Helen,Laptop,Technology,751.6,436.21
+1639,2023-12-06,East,Bob,Binder,Office Supplies,648.6,349.63
+1640,2022-06-30,West,Bob,Chair,Office Supplies,430.63,141.18
+1641,2023-03-05,South,Charlie,Bookcase,Office Supplies,1373.06,461.76
+1642,2021-09-06,South,Charlie,Desk,Furniture,680.04,-159.93
+1643,2021-02-16,Central,Alice,Desk,Office Supplies,1976.11,451.7
+1644,2021-08-02,South,Charlie,Phone,Office Supplies,685.09,-164.64
+1645,2021-08-27,East,Frank,Headphones,Technology,818.57,183.11
+1646,2023-12-16,East,Helen,Laptop,Technology,1226.5,423.31
+1647,2021-12-16,South,Jack,Headphones,Technology,1613.28,-16.1
+1648,2021-04-17,East,Frank,Binder,Furniture,965.56,130.57
+1649,2023-04-11,West,Eva,Bookcase,Office Supplies,874.18,27.03
+1650,2021-02-17,West,David,Phone,Technology,1991.49,466.5
+1651,2021-12-03,South,Charlie,Table,Technology,70.46,376.55
+1652,2023-11-16,West,David,Binder,Technology,1795.38,296.3
+1653,2023-03-15,West,Grace,Laptop,Office Supplies,340.82,211.34
+1654,2021-01-08,Central,Alice,Desk,Office Supplies,1582.55,374.41
+1655,2022-09-17,Central,Grace,Monitor,Office Supplies,1254.97,74.59
+1656,2022-12-20,West,Alice,Bookcase,Furniture,716.6,113.29
+1657,2021-10-30,South,Bob,Printer,Furniture,1754.06,311.0
+1658,2022-10-01,Central,David,Headphones,Technology,75.17,50.43
+1659,2021-02-25,East,Alice,Phone,Office Supplies,492.05,-155.27
+1660,2022-12-27,East,Ian,Headphones,Technology,1155.44,-147.97
+1661,2022-06-10,East,Frank,Bookcase,Office Supplies,735.51,-119.25
+1662,2022-04-19,South,Alice,Headphones,Office Supplies,1240.24,408.78
+1663,2021-01-28,West,Alice,Bookcase,Office Supplies,97.01,130.56
+1664,2021-03-19,East,Frank,Headphones,Furniture,277.09,299.02
+1665,2021-12-31,South,David,Chair,Furniture,297.84,75.04
+1666,2022-10-28,Central,David,Table,Office Supplies,419.1,-18.9
+1667,2022-06-10,West,Frank,Binder,Technology,945.7,43.03
+1668,2022-11-30,Central,Grace,Binder,Office Supplies,1516.65,355.93
+1669,2023-06-02,South,Ian,Laptop,Office Supplies,1815.8,237.65
+1670,2023-10-28,East,Jack,Printer,Technology,1678.98,456.35
+1671,2023-10-24,East,Eva,Printer,Office Supplies,433.93,275.79
+1672,2023-07-08,South,Ian,Laptop,Technology,910.24,199.13
+1673,2023-01-20,East,David,Monitor,Furniture,438.85,227.14
+1674,2021-12-29,West,Jack,Binder,Furniture,565.72,459.66
+1675,2023-03-17,South,Bob,Monitor,Technology,1031.92,351.74
+1676,2023-01-09,Central,Charlie,Bookcase,Furniture,182.81,-183.17
+1677,2023-11-05,South,Alice,Bookcase,Furniture,475.44,173.9
+1678,2022-04-30,West,Frank,Desk,Technology,1873.99,281.84
+1679,2021-01-28,West,Frank,Headphones,Furniture,958.93,324.09
+1680,2022-12-15,South,Alice,Printer,Office Supplies,918.5,-50.8
+1681,2023-11-29,South,Charlie,Desk,Office Supplies,78.41,407.02
+1682,2021-03-27,East,Eva,Table,Technology,532.43,469.09
+1683,2021-05-06,West,Charlie,Laptop,Furniture,1739.27,-34.3
+1684,2023-03-23,South,Jack,Laptop,Office Supplies,371.03,417.83
+1685,2022-06-21,South,Charlie,Bookcase,Office Supplies,859.49,-132.11
+1686,2021-05-25,West,Jack,Binder,Furniture,77.95,-161.01
+1687,2021-01-25,South,Charlie,Monitor,Furniture,982.75,-109.54
+1688,2021-03-08,East,Eva,Printer,Office Supplies,90.99,-159.58
+1689,2021-08-21,West,Eva,Desk,Office Supplies,1648.24,391.51
+1690,2021-04-19,East,David,Monitor,Technology,1658.46,-158.66
+1691,2021-04-21,East,Alice,Desk,Technology,1586.1,-9.84
+1692,2021-08-16,East,Eva,Headphones,Office Supplies,602.56,-127.37
+1693,2021-04-21,East,Jack,Table,Technology,1682.61,6.8
+1694,2021-02-03,West,Eva,Table,Office Supplies,1108.85,-136.61
+1695,2022-09-15,East,David,Monitor,Office Supplies,778.93,267.6
+1696,2023-01-18,East,Frank,Monitor,Technology,1269.39,-106.67
+1697,2022-08-18,South,Jack,Monitor,Technology,74.07,396.29
+1698,2022-03-01,West,David,Desk,Furniture,328.77,372.03
+1699,2022-09-05,West,Grace,Headphones,Furniture,1497.47,-190.44
+1700,2022-11-23,Central,Grace,Chair,Furniture,526.12,427.01
+1701,2021-11-11,West,Bob,Monitor,Office Supplies,1216.12,-179.74
+1702,2023-05-27,West,Charlie,Binder,Technology,800.95,-32.25
+1703,2022-10-24,Central,Alice,Printer,Office Supplies,1716.87,-177.33
+1704,2021-10-04,West,Helen,Printer,Technology,1907.21,35.09
+1705,2022-09-16,West,Ian,Desk,Office Supplies,1772.95,159.71
+1706,2022-05-31,West,David,Monitor,Furniture,577.71,357.65
+1707,2023-04-23,West,Frank,Bookcase,Furniture,428.62,36.59
+1708,2021-12-16,Central,Ian,Laptop,Furniture,975.15,293.84
+1709,2023-04-03,West,Frank,Chair,Office Supplies,64.3,-68.75
+1710,2023-01-29,West,Ian,Binder,Technology,100.33,325.42
+1711,2023-06-18,Central,David,Headphones,Technology,1128.92,-34.8
+1712,2021-08-31,South,Helen,Bookcase,Furniture,1064.88,-99.52
+1713,2022-06-27,East,Ian,Table,Furniture,1989.43,-70.21
+1714,2023-11-30,South,David,Bookcase,Furniture,443.59,-72.56
+1715,2021-08-17,Central,Eva,Desk,Furniture,553.3,159.0
+1716,2022-07-02,East,Helen,Chair,Technology,271.4,391.36
+1717,2023-07-09,Central,Jack,Phone,Office Supplies,1839.21,-144.28
+1718,2021-01-06,Central,Frank,Phone,Office Supplies,1566.73,294.87
+1719,2022-04-13,West,Grace,Monitor,Office Supplies,1653.56,258.04
+1720,2021-03-16,East,Charlie,Monitor,Office Supplies,1810.39,410.76
+1721,2021-01-04,West,Grace,Desk,Furniture,1073.55,-29.1
+1722,2022-10-08,East,Helen,Headphones,Furniture,929.83,115.08
+1723,2021-04-28,Central,Jack,Monitor,Furniture,694.26,448.08
+1724,2023-05-31,Central,Frank,Laptop,Office Supplies,1198.97,262.0
+1725,2022-05-19,South,Jack,Chair,Furniture,935.84,72.14
+1726,2023-08-05,East,Ian,Desk,Furniture,930.55,-108.01
+1727,2022-07-28,West,Frank,Printer,Technology,1877.01,-16.26
+1728,2021-07-13,South,Ian,Table,Technology,1968.86,206.85
+1729,2023-04-27,South,David,Desk,Furniture,1603.14,302.72
+1730,2022-12-16,South,Helen,Desk,Technology,1525.68,-112.9
+1731,2023-11-16,West,David,Phone,Technology,1377.09,219.72
+1732,2021-06-22,South,Bob,Binder,Furniture,373.85,185.25
+1733,2021-11-22,West,Jack,Headphones,Furniture,165.26,159.77
+1734,2023-04-16,South,Ian,Binder,Furniture,1396.92,283.09
+1735,2022-12-25,West,Eva,Laptop,Furniture,1471.13,386.21
+1736,2021-08-13,Central,David,Printer,Office Supplies,141.6,26.09
+1737,2022-06-16,Central,Bob,Phone,Office Supplies,1859.7,422.31
+1738,2021-04-23,Central,Alice,Printer,Furniture,227.72,-87.56
+1739,2021-05-20,Central,Grace,Laptop,Technology,607.51,-78.88
+1740,2022-07-13,Central,Frank,Binder,Furniture,1361.16,-13.26
+1741,2021-01-01,South,Bob,Desk,Furniture,381.25,-116.33
+1742,2021-03-31,South,Helen,Monitor,Technology,158.06,-38.78
+1743,2022-10-16,South,David,Monitor,Office Supplies,695.74,-125.51
+1744,2021-11-16,West,Helen,Bookcase,Furniture,1543.64,375.23
+1745,2021-05-19,West,Grace,Table,Furniture,856.67,-102.72
+1746,2023-04-25,West,Eva,Headphones,Office Supplies,1323.3,323.11
+1747,2021-09-16,West,Jack,Laptop,Office Supplies,1180.26,-166.46
+1748,2023-06-21,Central,Jack,Table,Technology,93.33,463.96
+1749,2022-11-21,Central,Helen,Headphones,Office Supplies,1977.65,297.81
+1750,2021-01-10,Central,Ian,Table,Office Supplies,130.78,-195.24
+1751,2021-09-18,East,Eva,Binder,Office Supplies,1937.22,334.7
+1752,2021-06-21,South,Jack,Headphones,Technology,1122.24,159.86
+1753,2023-06-17,West,Eva,Binder,Office Supplies,1928.16,345.56
+1754,2021-01-13,West,Bob,Desk,Office Supplies,273.77,165.75
+1755,2021-11-17,Central,Eva,Phone,Technology,1006.3,248.72
+1756,2021-11-25,West,Charlie,Binder,Office Supplies,380.53,350.43
+1757,2023-02-24,West,Grace,Monitor,Office Supplies,149.4,83.58
+1758,2023-02-16,South,Jack,Table,Technology,1254.18,-198.1
+1759,2023-06-30,Central,Eva,Bookcase,Furniture,455.18,394.96
+1760,2021-11-14,South,Helen,Chair,Technology,1196.01,66.62
+1761,2021-08-24,East,Alice,Headphones,Office Supplies,269.11,147.23
+1762,2021-11-30,East,Charlie,Laptop,Office Supplies,697.37,-194.56
+1763,2022-01-11,East,Charlie,Bookcase,Office Supplies,1574.18,144.46
+1764,2022-08-11,Central,Ian,Monitor,Technology,902.25,490.54
+1765,2022-05-28,West,Eva,Binder,Office Supplies,1274.1,-5.21
+1766,2023-07-07,Central,Ian,Phone,Office Supplies,1312.54,76.79
+1767,2023-05-23,Central,Ian,Desk,Technology,1695.32,281.03
+1768,2021-09-27,West,Alice,Chair,Furniture,683.6,370.36
+1769,2023-03-09,South,Bob,Printer,Furniture,1390.23,92.17
+1770,2022-12-26,East,Eva,Bookcase,Office Supplies,1925.15,16.77
+1771,2021-01-05,South,David,Phone,Technology,1473.97,456.48
+1772,2023-05-01,East,Jack,Printer,Office Supplies,1005.25,274.0
+1773,2021-03-19,Central,Ian,Chair,Technology,1279.9,-116.69
+1774,2022-07-28,East,Grace,Laptop,Technology,1492.38,-151.75
+1775,2021-05-12,Central,Frank,Laptop,Furniture,1243.94,138.48
+1776,2022-08-24,South,Grace,Table,Furniture,82.52,-45.94
+1777,2023-12-02,Central,Alice,Chair,Technology,429.81,-22.21
+1778,2021-03-30,South,Alice,Chair,Office Supplies,1630.41,414.38
+1779,2022-02-06,West,Helen,Printer,Furniture,581.67,-137.3
+1780,2021-10-23,West,Bob,Phone,Office Supplies,1476.55,300.75
+1781,2022-09-08,West,Jack,Headphones,Furniture,775.63,-10.2
+1782,2023-03-11,Central,Ian,Printer,Furniture,1067.67,332.23
+1783,2022-02-26,West,Grace,Desk,Office Supplies,182.55,305.69
+1784,2023-11-13,East,Frank,Laptop,Furniture,403.39,-194.83
+1785,2022-07-29,South,Alice,Laptop,Furniture,1916.53,156.39
+1786,2021-05-23,South,Alice,Table,Office Supplies,1785.77,-102.48
+1787,2023-09-20,East,Bob,Desk,Furniture,1321.94,406.36
+1788,2022-10-27,Central,Frank,Laptop,Furniture,946.31,410.11
+1789,2021-05-25,Central,Frank,Printer,Furniture,1367.73,92.84
+1790,2023-10-04,South,Bob,Desk,Office Supplies,1256.29,111.08
+1791,2022-05-18,West,Alice,Printer,Technology,1158.68,12.3
+1792,2023-04-01,Central,Jack,Headphones,Office Supplies,165.4,301.62
+1793,2021-04-14,Central,Eva,Headphones,Technology,1283.97,51.06
+1794,2023-11-29,East,Eva,Laptop,Furniture,1549.39,-12.55
+1795,2021-07-17,East,Bob,Laptop,Technology,1988.46,102.56
+1796,2022-08-02,West,Frank,Phone,Office Supplies,71.6,-135.96
+1797,2022-01-26,Central,Ian,Headphones,Office Supplies,1473.84,322.62
+1798,2022-07-08,Central,Bob,Bookcase,Furniture,1164.99,-191.18
+1799,2023-11-05,East,Jack,Bookcase,Technology,896.4,251.14
+1800,2022-04-23,Central,Bob,Table,Furniture,298.76,-71.99
+1801,2023-07-12,South,Charlie,Headphones,Furniture,847.72,-37.32
+1802,2022-02-24,East,Grace,Printer,Office Supplies,741.04,244.94
+1803,2021-06-06,West,Frank,Printer,Technology,640.52,495.06
+1804,2022-07-04,East,Helen,Monitor,Technology,1475.22,344.4
+1805,2023-10-18,Central,Helen,Desk,Technology,1416.41,-41.91
+1806,2023-09-24,West,Frank,Binder,Technology,1198.59,-76.78
+1807,2023-08-09,East,Jack,Bookcase,Furniture,1880.4,406.36
+1808,2021-10-16,South,Charlie,Laptop,Furniture,732.22,110.93
+1809,2021-07-15,South,Charlie,Table,Office Supplies,525.41,-104.06
+1810,2022-08-21,East,Alice,Binder,Furniture,1329.01,403.55
+1811,2022-06-01,South,Grace,Chair,Furniture,437.69,371.26
+1812,2023-05-15,South,Eva,Table,Office Supplies,664.27,488.73
+1813,2023-03-17,South,David,Chair,Office Supplies,487.97,436.82
+1814,2023-03-26,West,Jack,Headphones,Office Supplies,184.85,396.25
+1815,2021-08-16,South,David,Chair,Furniture,1663.62,-163.2
+1816,2021-08-04,South,David,Chair,Furniture,546.35,-126.91
+1817,2023-08-06,South,Frank,Phone,Office Supplies,972.4,198.29
+1818,2021-01-15,West,Helen,Phone,Office Supplies,134.46,172.04
+1819,2021-02-16,East,Helen,Phone,Office Supplies,1413.71,120.57
+1820,2021-11-20,Central,Eva,Headphones,Furniture,694.59,77.75
+1821,2023-04-24,South,Frank,Binder,Furniture,1502.24,101.85
+1822,2021-05-10,East,David,Table,Technology,854.19,198.51
+1823,2021-04-05,South,Ian,Table,Furniture,431.72,-198.55
+1824,2022-09-19,West,Helen,Laptop,Furniture,1050.69,-17.5
+1825,2023-01-25,East,Jack,Phone,Furniture,304.48,162.8
+1826,2023-03-05,West,Jack,Headphones,Office Supplies,909.05,305.55
+1827,2021-03-10,South,Alice,Laptop,Furniture,668.75,-78.09
+1828,2021-01-11,South,Bob,Desk,Office Supplies,1828.32,182.82
+1829,2023-05-22,West,Ian,Laptop,Technology,168.81,300.12
+1830,2022-07-04,Central,Helen,Binder,Technology,1403.33,111.24
+1831,2022-12-13,West,Charlie,Bookcase,Office Supplies,406.36,-181.04
+1832,2021-01-23,South,Helen,Chair,Office Supplies,672.14,114.49
+1833,2023-03-26,West,Alice,Phone,Office Supplies,860.25,7.51
+1834,2021-12-12,Central,Jack,Bookcase,Furniture,1820.63,450.75
+1835,2021-10-29,West,David,Laptop,Technology,523.03,-112.77
+1836,2021-12-29,Central,Charlie,Headphones,Office Supplies,228.05,256.73
+1837,2022-01-31,Central,Frank,Chair,Furniture,671.44,-163.1
+1838,2021-08-06,West,Grace,Table,Technology,254.12,112.32
+1839,2021-05-21,West,David,Printer,Furniture,300.76,187.79
+1840,2023-08-16,East,Grace,Chair,Technology,1169.01,8.57
+1841,2023-09-12,South,Ian,Binder,Furniture,168.76,118.55
+1842,2023-09-20,Central,Bob,Binder,Technology,110.32,-85.51
+1843,2023-04-08,East,Charlie,Laptop,Technology,1443.11,12.89
+1844,2022-11-14,West,Eva,Desk,Furniture,755.21,234.77
+1845,2023-10-01,South,Charlie,Binder,Office Supplies,294.48,11.26
+1846,2021-12-22,East,Helen,Binder,Technology,544.54,429.82
+1847,2023-10-05,Central,Jack,Headphones,Office Supplies,1302.07,239.88
+1848,2023-06-07,East,Helen,Laptop,Furniture,587.3,107.05
+1849,2021-05-07,Central,Helen,Chair,Office Supplies,1014.32,-172.87
+1850,2023-10-06,West,Ian,Desk,Office Supplies,287.31,149.68
+1851,2022-08-27,South,David,Bookcase,Office Supplies,1196.78,335.34
+1852,2023-10-11,South,Eva,Printer,Office Supplies,666.35,-14.11
+1853,2021-02-20,South,Eva,Phone,Office Supplies,1272.59,364.74
+1854,2023-11-19,West,Helen,Table,Technology,1626.37,-23.74
+1855,2023-02-18,Central,Grace,Binder,Technology,1242.71,376.62
+1856,2023-03-25,West,Ian,Laptop,Technology,626.71,-140.31
+1857,2022-02-24,South,Helen,Phone,Furniture,548.7,406.33
+1858,2023-09-10,West,Bob,Table,Office Supplies,688.47,149.43
+1859,2023-04-05,West,Jack,Table,Technology,371.01,7.58
+1860,2023-10-22,West,David,Bookcase,Furniture,403.29,-14.42
+1861,2022-07-21,Central,Frank,Bookcase,Technology,1591.85,102.41
+1862,2022-01-06,East,Bob,Bookcase,Technology,800.23,499.33
+1863,2023-07-25,East,Grace,Monitor,Office Supplies,900.19,-45.77
+1864,2022-10-23,West,Charlie,Monitor,Furniture,1208.4,-127.75
+1865,2023-08-27,East,Charlie,Table,Office Supplies,1199.82,209.52
+1866,2021-07-21,East,Bob,Bookcase,Office Supplies,181.38,141.98
+1867,2021-11-09,West,Helen,Headphones,Technology,1671.5,166.94
+1868,2021-04-27,West,Frank,Binder,Office Supplies,395.79,266.85
+1869,2023-07-26,South,Alice,Phone,Furniture,1459.99,-13.0
+1870,2022-07-29,East,Alice,Phone,Office Supplies,1556.71,437.47
+1871,2021-09-01,Central,Grace,Monitor,Office Supplies,1444.05,104.97
+1872,2022-06-21,West,Helen,Table,Office Supplies,1179.01,-109.64
+1873,2021-03-16,South,Eva,Laptop,Technology,78.49,319.61
+1874,2022-01-21,Central,Eva,Chair,Furniture,752.73,250.17
+1875,2022-04-20,East,David,Chair,Technology,1229.44,21.02
+1876,2022-02-22,South,Frank,Monitor,Technology,805.53,235.06
+1877,2021-12-13,West,Frank,Laptop,Technology,1733.79,-46.1
+1878,2022-10-02,Central,Charlie,Monitor,Technology,652.16,111.39
+1879,2023-07-28,West,Ian,Chair,Technology,622.39,429.59
+1880,2023-08-13,East,Grace,Laptop,Furniture,568.7,-106.53
+1881,2023-05-26,Central,Alice,Bookcase,Office Supplies,698.92,70.69
+1882,2023-02-02,East,Grace,Table,Technology,1136.94,374.8
+1883,2022-10-26,East,Eva,Phone,Technology,1428.68,478.64
+1884,2021-01-25,South,Eva,Headphones,Furniture,1342.01,117.75
+1885,2022-12-11,West,Bob,Desk,Furniture,1625.05,154.9
+1886,2021-06-26,Central,David,Table,Office Supplies,1777.53,200.52
+1887,2021-10-12,East,Frank,Bookcase,Furniture,1641.35,452.64
+1888,2021-03-04,East,Jack,Chair,Office Supplies,86.94,400.74
+1889,2023-09-30,Central,Grace,Bookcase,Technology,1485.04,-80.58
+1890,2022-10-24,East,Eva,Monitor,Technology,456.38,105.73
+1891,2022-10-28,South,Ian,Laptop,Office Supplies,309.21,124.8
+1892,2021-06-05,South,Charlie,Phone,Furniture,1295.05,352.37
+1893,2023-12-09,South,Alice,Binder,Office Supplies,673.5,222.03
+1894,2023-08-25,South,David,Monitor,Furniture,161.38,257.95
+1895,2023-04-29,East,Ian,Table,Technology,318.38,498.74
+1896,2022-11-20,Central,David,Monitor,Furniture,51.81,-147.53
+1897,2021-05-28,Central,Bob,Table,Office Supplies,1811.29,-43.89
+1898,2021-12-08,Central,Jack,Binder,Office Supplies,98.01,85.53
+1899,2022-04-21,Central,Eva,Printer,Technology,458.44,43.45
+1900,2023-12-23,West,Charlie,Phone,Furniture,861.71,-184.85
+1901,2022-07-15,Central,Ian,Headphones,Furniture,745.31,-135.76
+1902,2021-11-23,West,David,Headphones,Furniture,1827.87,276.67
+1903,2023-09-17,West,Frank,Desk,Technology,128.56,415.53
+1904,2021-08-03,South,Bob,Bookcase,Furniture,1048.82,159.96
+1905,2022-03-11,West,Frank,Printer,Office Supplies,1376.93,177.43
+1906,2023-08-10,East,Charlie,Headphones,Furniture,1866.81,-21.43
+1907,2022-12-24,West,Ian,Monitor,Technology,1259.72,337.51
+1908,2021-02-01,South,Bob,Bookcase,Furniture,1617.32,326.26
+1909,2022-11-01,West,Ian,Printer,Furniture,213.26,211.86
+1910,2021-10-12,East,Eva,Laptop,Office Supplies,802.58,-51.13
+1911,2022-03-05,East,Helen,Laptop,Furniture,779.2,-132.09
+1912,2021-10-13,East,Bob,Bookcase,Office Supplies,1778.26,-155.03
+1913,2023-11-09,South,Frank,Table,Office Supplies,345.17,214.89
+1914,2021-01-18,South,Charlie,Table,Technology,346.18,377.52
+1915,2023-02-08,Central,Jack,Monitor,Office Supplies,690.69,400.83
+1916,2022-08-13,South,Eva,Printer,Office Supplies,156.21,124.54
+1917,2023-10-07,East,Helen,Printer,Technology,405.79,348.99
+1918,2021-07-13,East,Jack,Bookcase,Office Supplies,1932.16,462.82
+1919,2022-05-17,South,Alice,Chair,Technology,884.96,-7.38
+1920,2023-09-15,West,Eva,Laptop,Furniture,1282.44,78.57
+1921,2021-04-24,South,Charlie,Printer,Technology,1465.92,452.04
+1922,2023-08-05,South,David,Bookcase,Office Supplies,765.57,36.76
+1923,2023-04-11,East,Bob,Binder,Technology,337.09,439.71
+1924,2023-07-14,Central,Ian,Desk,Office Supplies,452.83,486.73
+1925,2021-02-24,East,Charlie,Binder,Furniture,660.87,263.27
+1926,2023-03-11,Central,Bob,Phone,Technology,1290.33,371.82
+1927,2023-02-17,East,Jack,Monitor,Furniture,826.65,324.68
+1928,2021-06-11,South,Ian,Printer,Office Supplies,63.29,289.67
+1929,2021-03-28,East,Grace,Phone,Office Supplies,1070.64,14.85
+1930,2021-02-24,East,Frank,Headphones,Furniture,1846.95,-160.03
+1931,2023-10-29,East,Alice,Phone,Technology,1633.55,40.14
+1932,2023-04-13,South,Eva,Bookcase,Technology,1659.16,266.86
+1933,2021-11-09,South,Charlie,Printer,Office Supplies,1600.36,-128.23
+1934,2023-01-29,South,Alice,Desk,Furniture,681.28,-191.66
+1935,2022-03-19,South,David,Bookcase,Furniture,1542.13,-102.22
+1936,2021-11-24,Central,Bob,Bookcase,Technology,329.16,301.02
+1937,2023-12-14,Central,Bob,Monitor,Technology,1332.55,480.96
+1938,2023-01-31,West,Charlie,Monitor,Technology,1301.06,488.15
+1939,2022-08-02,South,Helen,Laptop,Furniture,99.86,145.79
+1940,2023-12-11,Central,Helen,Laptop,Technology,1586.54,408.55
+1941,2023-10-04,East,Grace,Table,Technology,1811.33,315.78
+1942,2021-04-06,South,Frank,Chair,Office Supplies,571.46,150.73
+1943,2023-03-25,West,Ian,Printer,Technology,1634.16,200.93
+1944,2022-05-06,West,David,Printer,Technology,210.69,-103.94
+1945,2022-03-28,West,Alice,Phone,Furniture,1219.94,456.36
+1946,2021-06-14,East,Helen,Printer,Furniture,997.01,46.35
+1947,2021-07-01,Central,Grace,Printer,Office Supplies,1114.55,112.3
+1948,2022-04-14,East,Grace,Chair,Technology,1856.1,270.16
+1949,2023-06-29,South,Charlie,Headphones,Office Supplies,1749.06,33.73
+1950,2023-01-05,West,David,Laptop,Furniture,1580.91,-22.02
+1951,2023-04-03,East,Jack,Laptop,Office Supplies,583.71,241.73
+1952,2023-08-02,East,Ian,Desk,Furniture,1828.05,-182.51
+1953,2021-01-07,Central,Frank,Printer,Office Supplies,240.14,304.51
+1954,2021-11-26,Central,Eva,Chair,Office Supplies,1713.99,159.82
+1955,2023-02-14,West,Charlie,Laptop,Technology,689.91,224.03
+1956,2021-05-31,East,Ian,Chair,Office Supplies,154.86,242.32
+1957,2021-05-27,East,Eva,Binder,Technology,1355.25,168.94
+1958,2023-07-04,Central,Eva,Headphones,Technology,501.0,207.77
+1959,2022-12-01,East,David,Printer,Technology,524.96,278.65
+1960,2021-03-23,East,David,Desk,Technology,646.79,327.18
+1961,2022-05-29,East,Alice,Phone,Office Supplies,174.19,309.22
+1962,2023-03-26,Central,Grace,Laptop,Furniture,395.4,408.73
+1963,2022-12-10,West,Ian,Binder,Furniture,60.02,-67.39
+1964,2023-01-16,South,Charlie,Chair,Furniture,918.55,80.8
+1965,2023-10-20,West,Bob,Monitor,Office Supplies,214.3,463.46
+1966,2022-12-08,South,Charlie,Bookcase,Technology,1381.17,77.61
+1967,2022-04-16,East,Alice,Printer,Furniture,509.46,-112.59
+1968,2022-01-31,West,Frank,Printer,Office Supplies,1889.97,167.81
+1969,2021-09-18,South,Grace,Binder,Technology,1748.94,-123.36
+1970,2023-03-16,Central,Bob,Chair,Furniture,614.41,-58.0
+1971,2023-07-23,Central,Helen,Table,Technology,1577.27,498.82
+1972,2023-06-24,West,Frank,Printer,Furniture,1616.33,178.95
+1973,2023-12-13,West,David,Table,Furniture,1973.8,-1.16
+1974,2023-07-29,East,Eva,Monitor,Furniture,1215.79,496.34
+1975,2023-05-04,West,Helen,Binder,Technology,209.83,476.59
+1976,2022-08-16,East,Charlie,Chair,Office Supplies,1311.33,108.52
+1977,2022-12-15,East,Charlie,Chair,Technology,1268.71,-17.72
+1978,2022-09-24,Central,David,Headphones,Furniture,1294.78,386.88
+1979,2021-02-28,Central,Alice,Bookcase,Technology,648.93,300.93
+1980,2021-05-08,South,Ian,Laptop,Office Supplies,1726.38,280.86
+1981,2023-01-06,Central,Helen,Laptop,Technology,1920.97,425.18
+1982,2022-12-22,Central,Helen,Phone,Office Supplies,474.54,282.59
+1983,2022-06-10,West,Jack,Desk,Office Supplies,221.9,-1.34
+1984,2022-06-05,Central,Frank,Binder,Technology,429.34,285.7
+1985,2022-07-06,South,Grace,Monitor,Furniture,1650.08,14.07
+1986,2021-08-25,West,Frank,Chair,Office Supplies,1369.46,331.47
+1987,2022-05-09,South,Ian,Bookcase,Technology,1290.29,233.82
+1988,2021-01-04,Central,Charlie,Table,Office Supplies,833.5,-145.81
+1989,2022-10-28,South,Charlie,Binder,Furniture,1176.76,158.98
+1990,2022-03-18,West,Charlie,Phone,Technology,650.35,40.31
+1991,2021-01-29,East,Jack,Binder,Technology,980.54,30.0
+1992,2022-09-02,South,Charlie,Phone,Technology,1596.47,221.58
+1993,2023-03-16,South,Ian,Chair,Furniture,1963.42,25.63
+1994,2021-03-16,West,David,Desk,Office Supplies,1868.35,343.83
+1995,2023-04-18,West,Grace,Phone,Technology,1871.04,-150.45
+1996,2021-05-08,South,Ian,Chair,Office Supplies,834.34,262.27
+1997,2021-02-11,Central,Grace,Chair,Office Supplies,964.14,366.44
+1998,2021-02-10,South,Ian,Desk,Furniture,1425.99,270.98
+1999,2023-07-23,West,Charlie,Laptop,Technology,1848.27,148.06
+2000,2021-02-03,East,David,Binder,Office Supplies,326.89,465.21
