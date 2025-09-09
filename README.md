@@ -76,11 +76,11 @@ Key SQL tasks:
 
 - Run queries from ```Superstore Queries```.sql
 
+- - Open ```superstore_large Analyst.xlsx```
+ to explore the interactive dashboard.
+
+
 ## 👨‍💻 Author
 - V Om Keshava Reddy
 - 📌 B.Tech CSE (AI & ML), SRM University
 - 🔗 LinkedIn| GitHub| LeetCode
-.
-
-- Open ```superstore_large Analyst.xlsx```
- to explore the interactive dashboard.
